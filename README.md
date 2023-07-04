@@ -8,7 +8,7 @@ This repository contains a collection of data analysis projects implemented in P
 
 **Labs List**
 
-**Lab 1:-** Introduction
+**Lab 1:- Introduction**
 
 Description: 
 -   Acquire data in various ways
@@ -20,7 +20,7 @@ Key techniques employed:
 -   Data Acquisition
 -   Basic Insight into the Dataset
 
-**Lab 2:-** Data Wrangling
+**Lab 2:- Data Wrangling**
 Objectives:-
 
 - Handle missing values
