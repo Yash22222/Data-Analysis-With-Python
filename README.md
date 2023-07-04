@@ -1,5 +1,7 @@
 # Data-Analysis-With-Python
 
+![image](https://github.com/Yash22222/Data-Analysis-With-Python/assets/97459174/271079f9-4d1e-40b2-acba-7b8854e611a9)
+
 ### **Data Analysis with Python Labs**
 
 This repository contains a collection of data analysis projects implemented in Python. Each project uses various Python libraries and techniques to extract insights and make data-driven decisions.
@@ -48,8 +50,6 @@ cd project-folder-name
 Run the project:
 python main.py
 
-
-![image](https://github.com/Yash22222/Data-Analysis-With-Python/assets/97459174/271079f9-4d1e-40b2-acba-7b8854e611a9)
 
 ![image](https://github.com/Yash22222/Data-Analysis-With-Python/assets/97459174/049e7bfe-f012-4650-adf6-40aed7c402fe)
 
