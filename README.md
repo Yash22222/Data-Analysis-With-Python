@@ -31,4 +31,5 @@ Run the project:
 python main.py
 
 
+![image](https://github.com/Yash22222/Data-Analysis-With-Python/assets/97459174/271079f9-4d1e-40b2-acba-7b8854e611a9)
 
