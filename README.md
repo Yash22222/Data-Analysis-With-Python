@@ -21,6 +21,7 @@ Key techniques employed:
 -   Basic Insight into the Dataset
 
 **Lab 2:- Data Wrangling**
+
 Objectives:-
 
 - Handle missing values
