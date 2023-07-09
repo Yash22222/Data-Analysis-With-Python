@@ -8,11 +8,13 @@ This repository contains a collection of data analysis projects implemented in P
 
 **Labs List**
 
-[Lab 1:- Introduction](#Lab-1:-Introduction)
+[Lab 1 Introduction](#Lab-1-Introduction)
 
-[Lab 2:- Data Wrangling](#Lab-2:-Data Wrangling)
+[Lab 2 Data Wrangling](#Lab-2-Data-Wrangling)
 
-**Lab 1:- Introduction**
+[Lab 3 Exploratory Data Analysis](#Lab-3-Exploratory-Data-Analysis)
+
+**Lab 1 Introduction**
 
 Description: 
 -   Acquire data in various ways
@@ -24,7 +26,7 @@ Key techniques employed:
 -   Data Acquisition
 -   Basic Insight into the Dataset
 
-**Lab 2:- Data Wrangling**
+**Lab 2 Data Wrangling**
 
 Objectives:-
 
@@ -60,7 +62,10 @@ Clone the repository:-
 git clone https://github.com/Yash22222/data-analysis-with-python.git
 
 Install the required dependencies:
+
+'''
 pip install -r requirements.txt
+'''
 
 Navigate to the desired project folder:
 cd project-folder-name
