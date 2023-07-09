@@ -8,6 +8,8 @@ This repository contains a collection of data analysis projects implemented in P
 
 **Labs List**
 
+[Lab 1:- Introduction](#Lab-1-Introduction)
+
 **Lab 1:- Introduction**
 
 Description: 
