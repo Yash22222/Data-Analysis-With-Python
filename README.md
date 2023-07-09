@@ -44,7 +44,7 @@ Table of Contents:-
 - Binning
 - Indicator variable
 
-**Lab 3:- Exploratory Data Analysis**
+**Lab 3 Exploratory Data Analysis**
 
 Objectives:- Explore features or characteristics to predict the price of the car
 
