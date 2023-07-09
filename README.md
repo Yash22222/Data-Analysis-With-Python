@@ -4,7 +4,7 @@
 
 ### **Data Analysis with Python Labs**
 
-This repository contains a collection of data analysis projects implemented in Python. Each project uses various Python libraries and techniques to extract insights and make data-driven decisions.
+This repository contains a collection of data analysis projects implemented in Python. Each project uses Python libraries and techniques to extract insights and make data-driven decisions.
 
 **Labs List**
 
@@ -38,8 +38,21 @@ Table of Contents:-
 - Binning
 - Indicator variable
 
+**Lab 3:- Exploratory Data Analysis**
+
+Objectives:- Explore features or characteristics to predict the price of the car
+
+Table of Contents:-
+
+- Import Data from Module
+- Analyzing Individual Feature Patterns Using Visualization
+- Descriptive Statistical Analysis
+- Basics of Grouping
+- Correlation and Causation
+- ANOVA
+
 How to Use
-Clone the repository:
+Clone the repository:-
 git clone https://github.com/Yash22222/data-analysis-with-python.git
 
 Install the required dependencies:
