@@ -14,6 +14,8 @@ This repository contains a collection of data analysis projects implemented in P
 
 [**Lab 3**](#Lab-3-Exploratory-Data-Analysis)
 
+[**Lab 4**](#Lab-4-Model-Development)
+
 
 
 **Lab 1 Introduction**
@@ -58,6 +60,14 @@ Table of Contents:-
 - Basics of Grouping
 - Correlation and Causation
 - ANOVA
+
+**Lab 4 Model Development**
+
+Objectives:- After completing this lab you will be able to:
+
+Table of Contents:-
+
+- Develop Prediction Models
 
 How to Use
 Clone the repository:-
