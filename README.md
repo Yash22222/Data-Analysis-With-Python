@@ -8,16 +8,6 @@ This repository contains a collection of data analysis projects implemented in P
 
 **Labs List**
 
-[**Lab 1**](#Lab-1-Introduction)
-
-[**Lab 2**](#Lab-2-Data-Wrangling)
-
-[**Lab 3**](#Lab-3-Exploratory-Data-Analysis)
-
-[**Lab 4**](#Lab-4-Model-Development)
-
-
-
 **Lab 1 Introduction**
 
 Description: 
